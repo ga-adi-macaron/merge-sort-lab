@@ -44,3 +44,9 @@ Take pictures of the diagram for each practice problem and include those picture
 - [Merge Sort](https://www.tutorialspoint.com/data_structures_algorithms/merge_sort_algorithm.htm)
 - [Quick Sort](https://www.tutorialspoint.com/data_structures_algorithms/quick_sort_algorithm.htm)
 - [Sorting Techniques](https://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm)
+
+---
+
+## Licensing
+1. All content is licensed under a CC­BY­NC­SA 4.0 license.
+2. All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact [legal@ga.co](mailto:legal@ga.co).
